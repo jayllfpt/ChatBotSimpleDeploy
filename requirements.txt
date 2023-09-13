@@ -1,0 +1,8 @@
+Flask==2.3.2
+Flask-Cors==4.0.0
+Flask-SocketIO==5.3.6
+sentence-transformers==2.2.2
+sentencepiece==0.1.99
+scikit-learn==1.2.2
+numpy==1.25.2
+pandas==2.0.2
